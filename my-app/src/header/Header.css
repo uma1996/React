@@ -9,15 +9,15 @@
 }
 
 .float-right a {
-    margin-right: 10px;
+    margin-right: 40px;
 }
 
 .float-left a {
-    margin-right: 10px;
+    margin-right: 40px;
 }
 
 .header {
     background-color: #F8F8F8;
     height: 50px;
-    border-top: 5px solid red;
+    border-top: 10px solid red;
 }

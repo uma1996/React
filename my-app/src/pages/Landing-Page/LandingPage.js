@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import Content from '../content/Content';
 import Header from '../../header/Header';
+import Skills from '../skills/Skills';
+import Footer from '../../footer/Footer';
 
 class LandingPage extends Component {
     render() {
@@ -8,6 +10,8 @@ class LandingPage extends Component {
             <div>
                 <Header />
                 <Content />
+                <Skills />
+                <Footer />
             </div>
         )
     }
